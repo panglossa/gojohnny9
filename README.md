@@ -101,7 +101,6 @@ These classes have been tested with the latest versions of apache and php (at le
 ----------------------------------------
 
 ```
-global $gj_options = array(
 define('LOCALPATH', '/usr/share/gojohnny9');
 define('WEBPATH', 'http://myserveraddress/gojohnny');
 require_once(LOCALPATH . '/gojohnny.php");
